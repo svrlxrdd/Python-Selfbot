@@ -3,7 +3,7 @@ This selfbot helps in bruting botnets/crashing them.
 
 
 How to use:
-Extract the files then open cmd in the same directory then type pip install colored and pip install pymysql (or pip3)
+Extract the files then open cmd in the same directory then type pip install -r requirements.txt
 Then put your discord user token in the file when you open with a text editor.
 and then run it ha. Enjoy
 
