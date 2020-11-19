@@ -1,0 +1,7 @@
+colorama
+colored
+bs4
+discord
+mysql.connector
+pymysql
+tpblite
